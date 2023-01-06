@@ -7,7 +7,7 @@
 > 如果你和我很熟了的话，直接[发邮件](mailto:friends@ydlk.cc)吧
 
 - 首先，请确保您已经在您的站点上的友链板块添加了我的网站  
-- 其次，**您不是本着卖广告的目的来交换**，您的网站属于**个人博客**  
+- 其次，**您==不是==本着卖广告的目的来交换**，您的网站属于**个人博客**  
 - 网站的域名十分重要，如果**是**免费域名的话就请暂时不要考虑了~~，除非混熟了~~  
     - 免费域名**包括但不限于**下述定义：  
         - 由Freenom公司运营的免费域名后缀，如`.ml`、`.tk`  
@@ -84,7 +84,7 @@
     - 对于logo的链接，将`[YOUR_FILE_HERE]`换成上面提交的图片的文件名
 4. 完成上述步骤后，请新建一个`Pull Request`
     - PR标题应为`Add: [sitename] ( [url] )`，如`Add: example blog ( https://example.com )`  
-5. 当你发起的`Pull Request`被`Review`并被通过、合并后，你的网站将会在12个小时内显示在[友链页面](https://www.daoblog.top/friends)并加入友链朋友圈。
+5. 当你发起的`Pull Request`被`Review`并被通过、合并后，你的网站将会在5分钟内显示在[友链页面](https://www.daoblog.top/friends)并加入[友链朋友圈](https://www.daoblog.top/fcircle)。
     - 注意，如果您的站点不提供RSS订阅流或您的站点的订阅文件路径不在友链朋友圈的[抓取规则](https://fcircle-doc.yyyzyyyz.cn/#/settings?id=%e9%a1%b9%e7%9b%ae%e9%85%8d%e7%bd%ae)内，请务必在PR中说明。
 
 ## 出现问题的友链
