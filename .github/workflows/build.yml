@@ -1,7 +1,6 @@
 name: GenerateJsonFile
 
 on:
-  # Trigger action when push and push-request
   push: 
     branches:
       - main
