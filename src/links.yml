@@ -1,0 +1,4 @@
+"站点名称": # 请置于双引号之中
+  url: https://example.com # 网站的 URL，请注意冒号后的空格
+  img: https://example.com/example.png # 网站 Logo 的 URL，请注意冒号后的空格
+  text: "Hello, World" # 网站的 Slogan，请置于双引号之中，请注意冒号后的空格
