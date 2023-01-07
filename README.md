@@ -2,6 +2,8 @@
 
 所以，少年，你做好交换友链的觉悟了吗？~~（好尬啊~~
 
+[![friends](https://socialify.git.ci/YanDao0313/friends/image?font=Bitter&language=1&name=1&owner=1&pulls=1&theme=Auto)](https://www.daoblog.top/friends)
+
 ## 基本要求
 
 > 如果你和我很熟了的话，直接[发邮件](mailto:friends@ydlk.cc)吧
