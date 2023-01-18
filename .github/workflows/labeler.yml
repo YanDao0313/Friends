@@ -12,8 +12,8 @@ jobs:
     - uses: actions/labeler@v4
       with:
         repo-token: "${{ secrets.GITHUB_TOKEN }}"
-    sync-labels: 
-      new:
-        -'src/links.yml'
-      img:
-        -'src/img/*'
+        sync-labels: 
+          new:
+            -'src/links.yml'
+          img:
+            -'src/img/*'
