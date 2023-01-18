@@ -102,6 +102,10 @@
   url: https://blog.linsnow.cn
   img: https://blog.linsnow.cn/img/avatar.png
   text: "无限进步.🎈"
+"优世界":
+  url: https://usj.cc
+  img: https://usj.cc/favicon.ico
+  text: "记录生活点点滴滴"
 ```
 
 ## 免责声明
