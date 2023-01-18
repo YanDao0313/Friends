@@ -98,7 +98,7 @@
   url: https://www.wanglewei.com/
   img: https://img.sdut1.com/blog_yingwu.jpg
   text: "大黑（王乐伟）的博客 | bili UID2475977"
- "L1nSn0w's Blog":
+"L1nSn0w's Blog":
   url: https://blog.linsnow.cn
   img: https://blog.linsnow.cn/img/avatar.png
   text: "无限进步.🎈"
