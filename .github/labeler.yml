@@ -1,4 +1,8 @@
 new:
-  -'src/links.yml'
+-'src/links.yml'
+
 img:
-  -'src/img/*'
+-'src/img/*'
+
+repo:
+- '*'
