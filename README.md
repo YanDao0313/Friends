@@ -104,6 +104,8 @@
   text: "无限进步.🎈"
 ```
 
+> 如有恢复/误报，请联系我 [friends@ydlk.cc](mailto:friends@ydlk.cc)
+
 ## 免责声明
 
 请访问[此链接](https://www.daoblog.top/post/friendlinks-sm/)
