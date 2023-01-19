@@ -104,7 +104,8 @@
   text: "无限进步.🎈"
 ```
 
-> 如有恢复/误报，请联系我 [friends@ydlk.cc](mailto:friends@ydlk.cc)
+> 如有恢复/误报，请联系我 [friends@ydlk.cc](mailto:friends@ydlk.cc)  
+> 如因网站备案而无法访问的，会在这里一并展示出来。  
 
 ## 免责声明
 
