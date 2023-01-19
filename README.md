@@ -78,7 +78,7 @@
     - 按照如下格式将你的网站信息添加到 links.yml 文件的末尾：  
         ```yml
         "Name": # 名称置于双引号之中，不要太长
-          url: https://example.com/ # 网站的 URL，注意缩进
+          url: https://example.com/ # 网站的URL，注意缩进【是博客链接哦】
           img: https://source.friends.ydlk.cc/src/img/[YOUR_FILE_HERE] # 网站 Logo 的 URL，将[YOUR_FILE_HERE]换成上面提交的图片
           text: "永远在学习的路上" # 网站的 Slogan，置于双引号之中，注意缩进
         ```  
@@ -87,6 +87,7 @@
         - logo的引用地址，您可以在`yandao.is-a.dev`与`source.friends.ydlk.cc`中任选其一，后者对中国大陆地区友好，但存在缓存延迟
 4. 完成上述步骤后，请新建一个`Pull Request`
     - PR标题应为`Add: [sitename] ( [url] )`，如`Add: example blog ( https://example.com )`  
+    - 如有补充，请在PR中一并说明，例如特殊的RSS地址等
 5. 当你发起的`Pull Request`被`Review`并被通过、合并后，你的网站将会在5分钟内显示在[友链页面](https://www.daoblog.top/friends)并加入[友链朋友圈](https://www.daoblog.top/fcircle)。
     - 注意，如果您的站点不提供RSS订阅流或您的站点的订阅文件路径不在友链朋友圈的[抓取规则](https://fcircle-doc.yyyzyyyz.cn/#/settings?id=%e9%a1%b9%e7%9b%ae%e9%85%8d%e7%bd%ae)内，请务必在PR中说明。
 
