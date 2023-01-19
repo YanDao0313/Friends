@@ -77,13 +77,14 @@
 3. 修改`src/links.yml`文件  
     - 按照如下格式将你的网站信息添加到 links.yml 文件的末尾：  
         ```yml
-        "Name": # 名称置于双引号之中
+        "Name": # 名称置于双引号之中，不要太长
           url: https://example.com/ # 网站的 URL，注意缩进
-          img: https://yandao.is-a.dev/Friends/src/img/[YOUR_FILE_HERE] # 网站 Logo 的 URL，将[YOUR_FILE_HERE]换成上面提交的图片
+          img: https://source.friends.ydlk.cc/src/img/[YOUR_FILE_HERE] # 网站 Logo 的 URL，将[YOUR_FILE_HERE]换成上面提交的图片
           text: "永远在学习的路上" # 网站的 Slogan，置于双引号之中，注意缩进
         ```  
     - `commit`的标题应为`Add: [sitename] ( [url] )`，如`Add: example blog ( https://example.com )`  
-    - 对于logo的链接，如果您执行了第二步，则将`[YOUR_FILE_HERE]`换成上面提交的图片的文件名，否则请填入您自行准备的链接，建议使用稳定的图床
+    - 对于logo的链接，如果您执行了第二步，则将`[YOUR_FILE_HERE]`换成上面提交的图片的文件名，否则请填入您自行准备的链接，建议使用稳定的图床  
+    - logo的引用地址，您可以在`yandao.is-a.dev`与`source.friends.ydlk.cc`中任选其一，后者对中国大陆地区友好，但存在缓存延迟
 4. 完成上述步骤后，请新建一个`Pull Request`
     - PR标题应为`Add: [sitename] ( [url] )`，如`Add: example blog ( https://example.com )`  
 5. 当你发起的`Pull Request`被`Review`并被通过、合并后，你的网站将会在5分钟内显示在[友链页面](https://www.daoblog.top/friends)并加入[友链朋友圈](https://www.daoblog.top/fcircle)。
