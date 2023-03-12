@@ -1,6 +1,6 @@
 "Yandao": # 名称置于双引号之中
   url: https://daoblog.top/ # 网站的 URL，注意空格
-  img: https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/1.jpeg # 网站 Logo 的 URL，注意空格
+  img: https://i.328888.xyz/2023/03/12/vANQL.jpeg # 网站 Logo 的 URL，注意空格
   text: "永远在学习的路上" # 网站的 Slogan，置于双引号之中，注意空格
 "嗯哒嘿":
   url: https://www.wanglewei.com/
