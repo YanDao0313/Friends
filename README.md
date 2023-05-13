@@ -50,7 +50,7 @@
 > 网站：https://daoblog.top/  
 > 描述：永远在学习的路上  
 > 头像：访问本仓库`src`目录下的`me`文件夹，任选一张自行压缩、存储即可。  
-> 背景：请访问[此处](https://github.com/YanDao0313/Friends/blob/main/src/me/bg.png)    
+> 背景：请访问[此处](https://github.com/YanDao0313/Friends/blob/main/src/me/bg.png)（你确定要用？    
 > 订阅：https://www.daoblog.top/rss.xml  
 
 ### 您要准备的
