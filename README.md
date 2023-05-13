@@ -1,7 +1,5 @@
 # [友情链接](https://www.daoblog.top/friends)
 
-所以，少年，你做好交换友链的觉悟了吗？~~（好尬啊~~
-
 [![friends](https://socialify.git.ci/YanDao0313/friends/image?font=Bitter&language=1&name=1&owner=1&pulls=1&theme=Auto)](https://www.daoblog.top/friends)
 
 ## 基本要求
@@ -52,7 +50,8 @@
 > 网站：https://daoblog.top/  
 > 描述：永远在学习的路上  
 > 头像：访问本仓库`src`目录下的`me`文件夹，任选一张自行压缩、存储即可。  
-> 订阅：https://daoblog.top/atom.xml  
+> 背景：请访问[此处](https://github.com/YanDao0313/Friends/blob/main/src/me/bg.png)    
+> 订阅：https://www.daoblog.top/rss.xml  
 
 ### 您要准备的
 
@@ -88,7 +87,7 @@
 4. 完成上述步骤后，请新建一个`Pull Request`
     - PR标题应为`Add: [sitename] ( [url] )`，如`Add: example blog ( https://example.com )`  
     - 如有补充，请在PR中一并说明，例如特殊的RSS地址等
-5. 当你发起的`Pull Request`被`Review`并被通过、合并后，你的网站将会在5分钟内显示在[友链页面](https://www.daoblog.top/friends)并加入[友链朋友圈](https://www.daoblog.top/fcircle)。
+5. 当你发起的`Pull Request`被`Review`并被通过、合并后，你的网站将会在12小时内显示在[友链页面](https://www.daoblog.top/friends)并加入[友链朋友圈](https://www.daoblog.top/fcircle)。
     - 注意，如果您的站点不提供RSS订阅流或您的站点的订阅文件路径不在友链朋友圈的[抓取规则](https://fcircle-doc.yyyzyyyz.cn/#/settings?id=%e9%a1%b9%e7%9b%ae%e9%85%8d%e7%bd%ae)内，请务必在PR中说明。
 
 ## 出现问题的友链
