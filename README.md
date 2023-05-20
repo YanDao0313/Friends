@@ -7,7 +7,7 @@
 > 名称：Yandao（或`Yandao's Blog`）  
 > 网站：[https://daoblog.top/](https://www.daoblog.top/)  
 > 描述：永远在学习的路上  
-> 类别：生活/日常
+> 类别：生活/日常  
 > 头像：请访问[此处](https://github.com/YanDao0313/Friends/blob/main/src/me/USE_THIS_PLS.jpg)  
 > 背景：请访问[此处](https://github.com/YanDao0313/Friends/blob/main/src/me/bg.jpeg)   
 > 订阅：[https://www.daoblog.top/atom.xml](https://www.daoblog.top/atom.xml)  
