@@ -2,6 +2,16 @@
 
 [![friends](https://socialify.git.ci/YanDao0313/friends/image?font=Bitter&language=1&name=1&owner=1&pulls=1&theme=Auto)](https://www.daoblog.top/friends)
 
+## 我的友链信息
+
+> 名称：Yandao（或`Yandao's Blog`）  
+> 网站：[https://daoblog.top/](https://www.daoblog.top/)  
+> 描述：永远在学习的路上  
+> 类别：生活/日常
+> 头像：请访问[此处](https://github.com/YanDao0313/Friends/blob/main/src/me/USE_THIS_PLS.jpg)  
+> 背景：请访问[此处](https://github.com/YanDao0313/Friends/blob/main/src/me/bg.jpeg)   
+> 订阅：[https://www.daoblog.top/atom.xml](https://www.daoblog.top/atom.xml)  
+
 ## 基本要求
 
 > 如果你和我很熟了的话，直接[发邮件](mailto:friends@ydlk.cc)吧
@@ -11,7 +21,7 @@
 - 网站的域名十分重要，如果**是**免费域名的话就请暂时不要考虑了~~，除非混熟了~~  
     - 免费域名**包括但不限于**下述定义：  
         - 由Freenom公司运营的免费域名后缀，如`.ml`、`.tk`  
-        - 中国大陆企业的静态网站托管服务的默认域名，如：  
+        - 部分企业的静态网站托管服务的默认域名，如：  
             - oschina.io  
             - gitee.io  
             - coding.me  
@@ -23,7 +33,7 @@
         - 由Automattic公司运营的wordpress.com在线博客服务  
         - 其他任何包含于`Public Suffix List`的免费子域名服务，如`github.io`，`gitlab.io`等  
         - ......  
-- 您的网站应至少能从中国香港正常访问  
+- 您的网站应至少能从中国大陆正常访问  
 - 我诚恳地希望您的网站不要充斥着广告、洗稿、搬运等低质内容  
     - 网站和博客可以长草，但不要滥竽充数  
     - 最终解释权归我本人所有  
@@ -50,12 +60,12 @@
 > 网站：https://daoblog.top/  
 > 描述：永远在学习的路上  
 > 头像：访问本仓库`src`目录下的`me`文件夹，任选一张自行压缩、存储即可。  
-> 背景：请访问[此处](https://github.com/YanDao0313/Friends/blob/main/src/me/bg.png)（你确定要用？    
+> 背景：请访问[此处](https://github.com/YanDao0313/Friends/blob/main/src/me/bg.jpeg)   
 > 订阅：https://www.daoblog.top/rss.xml  
 
 ### 您要准备的
 
-> 您的全部站点信息，包括您的站点本身，均应符合中国大陆及中国香港的有关法律法规，不涉及敏感内容
+> 您的全部站点信息，包括您的站点本身，均应符合中国大陆及中国香港的有关法律法规，不涉及任何敏感内容
 
 1. 自己站点的logo  
     - Logo应为正方形或圆形  
@@ -78,7 +88,7 @@
         ```yml
         "Name": # 名称置于双引号之中，不要太长
           url: https://example.com/ # 网站的URL，注意缩进【是博客链接哦】
-          img: https://source.friends.ydlk.cc/src/img/[YOUR_FILE_HERE] # 网站 Logo 的 URL，将[YOUR_FILE_HERE]换成上面提交的图片
+          img: https://source.friends.ydlk.cc/src/img/[YOUR_FILE_HERE] # 网站 Logo 的 URL，将[YOUR_FILE_HERE]换成上面提交的图片，当然，自备图床更好
           text: "永远在学习的路上" # 网站的 Slogan，置于双引号之中，注意缩进
         ```  
     - `commit`的标题应为`Add: [sitename] ( [url] )`，如`Add: example blog ( https://example.com )`  
@@ -87,7 +97,7 @@
 4. 完成上述步骤后，请新建一个`Pull Request`
     - PR标题应为`Add: [sitename] ( [url] )`，如`Add: example blog ( https://example.com )`  
     - 如有补充，请在PR中一并说明，例如特殊的RSS地址等
-5. 当你发起的`Pull Request`被`Review`并被通过、合并后，你的网站将会在12小时内显示在[友链页面](https://www.daoblog.top/friends)并加入[友链朋友圈](https://www.daoblog.top/fcircle)。
+5. 当你发起的`Pull Request`被审核且被通过、合并后，你的网站将会在12小时内显示在[友链页面](https://www.daoblog.top/friends)并加入[友链朋友圈](https://www.daoblog.top/fcircle)。
     - 注意，如果您的站点不提供RSS订阅流或您的站点的订阅文件路径不在友链朋友圈的[抓取规则](https://fcircle-doc.yyyzyyyz.cn/#/settings?id=%e9%a1%b9%e7%9b%ae%e9%85%8d%e7%bd%ae)内，请务必在PR中说明。
 
 ## 出现问题的友链
@@ -111,4 +121,4 @@
 ---
 
 <sub>本仓库灵感来源于 <a href="https://github.com/SukkaW/Friends">SukkaW/Friends</a> 与 <a href="https://github.com/renbaoshuo/Friends">renbaoshuo/Friends</a> ，Action配置参考自 <a href="https://github.com/Kitcham/hexo-links-json-generation">Kitcham</a> ，在此表示感谢。</sub><br>
-<sub>&copy; 2023 Yandao. All rights reserved.</sub>
+<sub>&copy; 2023 Kris Yan. All rights reserved.</sub>
