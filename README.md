@@ -6,11 +6,11 @@
 
 > 名称：Kris Yan  
 > 网站：[https://blog.krisyan.dev/](https://blog.krisyan.dev/)  
-> 描述：無限進步 @Schale夏萊  
+> 描述：`無限進步 @Schale夏萊`  
 > 类别：生活/日常  
 > 头像：请访问[此处](https://github.com/YanDao0313/Friends/blob/main/src/me/NEW_PIC.jpg)  
 > 背景：请访问[此处](https://github.com/YanDao0313/Friends/blob/main/src/me/newbg.jpeg)   
-> 订阅：[https://blog.krisyan.dev/feed.xml](https://blog.krisyan.dev/feed.xml)  
+> 订阅：[blog.krisyan.dev/feed.xml](https://blog.krisyan.dev/feed.xml)  
 
 ## 基本要求
 
@@ -61,7 +61,7 @@
 > 类别：生活/日常  
 > 头像：请访问[此处](https://github.com/YanDao0313/Friends/blob/main/src/me/NEW_PIC.jpg)  
 > 背景：请访问[此处](https://github.com/YanDao0313/Friends/blob/main/src/me/newbg.jpeg)   
-> 订阅：[https://blog.krisyan.dev/feed.xml](https://blog.krisyan.dev/feed.xml)  
+> 订阅：[blog.krisyan.dev/feed.xml](https://blog.krisyan.dev/feed.xml)  
 
 ### 您要准备的
 
