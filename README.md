@@ -55,7 +55,7 @@
 
 为了避免可能出现的图床问题，您可以将头像存储到贵站图床。
 
-> 名称：Kris Yan
+> 名称：Kris Yan  
 > 网站：[https://blog.krisyan.dev/](https://blog.krisyan.dev/)  
 > 描述：無限進步 @Schale夏萊  
 > 类别：生活/日常  
