@@ -4,7 +4,7 @@
 
 ## 我的友链信息
 
-> 名称：Kris Yan
+> 名称：Kris Yan  
 > 网站：[https://blog.krisyan.dev/](https://blog.krisyan.dev/)  
 > 描述：無限進步 @Schale夏萊  
 > 类别：生活/日常  
