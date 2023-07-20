@@ -1,16 +1,16 @@
-# [友情链接](https://www.daoblog.top/friends)
+# [友情链接](https://blog.krisyan.dev/friends)
 
-[![friends](https://socialify.git.ci/YanDao0313/friends/image?font=Bitter&language=1&name=1&owner=1&pulls=1&theme=Auto)](https://www.daoblog.top/friends)
+[![friends](https://socialify.git.ci/YanDao0313/friends/image?font=Bitter&language=1&name=1&owner=1&pulls=1&theme=Auto)](https://blog.krisyan.dev/friends)
 
 ## 我的友链信息
 
-> 名称：Yandao（或`Yandao's Blog`）  
-> 网站：[https://daoblog.top/](https://www.daoblog.top/)  
-> 描述：永远在学习的路上  
+> 名称：Kris Yan
+> 网站：[https://blog.krisyan.dev/](https://blog.krisyan.dev/)  
+> 描述：無限進步 @Schale夏萊  
 > 类别：生活/日常  
-> 头像：请访问[此处](https://github.com/YanDao0313/Friends/blob/main/src/me/USE_THIS_PLS.jpg)  
-> 背景：请访问[此处](https://github.com/YanDao0313/Friends/blob/main/src/me/bg.jpeg)   
-> 订阅：[https://www.daoblog.top/atom.xml](https://www.daoblog.top/atom.xml)  
+> 头像：请访问[此处](https://github.com/YanDao0313/Friends/blob/main/src/me/NEW_PIC.jpg)  
+> 背景：请访问[此处](https://github.com/YanDao0313/Friends/blob/main/src/me/newbg.jpeg)   
+> 订阅：[https://blog.krisyan.dev/feed.xml](https://blog.krisyan.dev/feed.xml)  
 
 ## 基本要求
 
@@ -42,26 +42,26 @@
 
 ## 开始交换
 
-如果您认为您的站点符合上方的要求，那么欢迎交换！
+如果您认为您的站点符合上方的要求，那么**欢迎交换**！
 
 ### 注意：您提交的信息有可能被修改
 
 如果有修改，我会将修改内容在PR中进行告知
 
-- 为了友链相关页面和组件的统一性和美观性，可能会对您的昵称进行缩短处理，例如昵称包含`博客`、`XX的XX`等内容或形式可能会被简化。  
-    - 在友链朋友圈的配置中，您的信息会被简化，一视同仁  
-- 所有的友链链接要求为博客主页链接，而不是个人主页链接。（为了适配友链朋友圈）  
+- 为了友链相关页面和组件的统一性和美观性，可能会对您的昵称进行缩短处理，例如昵称包含`博客`、`XX的XX`等内容或形式可能会被简化。   
+- 所有的友链链接要求为博客主页链接，而不是个人主页链接。  
 
 ### 我的友链信息
 
 为了避免可能出现的图床问题，您可以将头像存储到贵站图床。
 
-> 名称：Yandao（或`Yandao's Blog`）  
-> 网站：https://daoblog.top/  
-> 描述：永远在学习的路上  
-> 头像：访问本仓库`src`目录下的`me`文件夹，任选一张自行压缩、存储即可。  
-> 背景：请访问[此处](https://github.com/YanDao0313/Friends/blob/main/src/me/bg.jpeg)   
-> 订阅：https://www.daoblog.top/rss.xml  
+> 名称：Kris Yan
+> 网站：[https://blog.krisyan.dev/](https://blog.krisyan.dev/)  
+> 描述：無限進步 @Schale夏萊  
+> 类别：生活/日常  
+> 头像：请访问[此处](https://github.com/YanDao0313/Friends/blob/main/src/me/NEW_PIC.jpg)  
+> 背景：请访问[此处](https://github.com/YanDao0313/Friends/blob/main/src/me/newbg.jpeg)   
+> 订阅：[https://blog.krisyan.dev/feed.xml](https://blog.krisyan.dev/feed.xml)  
 
 ### 您要准备的
 
@@ -97,8 +97,8 @@
 4. 完成上述步骤后，请新建一个`Pull Request`
     - PR标题应为`Add: [sitename] ( [url] )`，如`Add: example blog ( https://example.com )`  
     - 如有补充，请在PR中一并说明，例如特殊的RSS地址等
-5. 当你发起的`Pull Request`被审核且被通过、合并后，你的网站将会在12小时内显示在[友链页面](https://www.daoblog.top/friends)并加入[友链朋友圈](https://www.daoblog.top/fcircle)。
-    - 注意，如果您的站点不提供RSS订阅流或您的站点的订阅文件路径不在友链朋友圈的[抓取规则](https://fcircle-doc.yyyzyyyz.cn/#/settings?id=%e9%a1%b9%e7%9b%ae%e9%85%8d%e7%bd%ae)内，请务必在PR中说明。
+5. 当你发起的`Pull Request`被审核且被通过、合并后，你的网站将会在12小时内显示在[友链页面](https://blog.krisyan.dev/friends)。
+    - 注意，如果您的站点不提供RSS订阅流，请务必在PR中说明。
 
 ## 出现问题的友链
 
@@ -116,7 +116,7 @@
 
 ## 免责声明
 
-请访问[此链接](https://www.daoblog.top/post/friendlinks-sm/)
+请访问[此链接（位于旧站点）](https://www.daoblog.top/post/friendlinks-sm/)
 
 ---
 
