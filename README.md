@@ -1,6 +1,6 @@
 # [友情链接](https://blog.krisyan.dev/friends)
 
-[![friends](https://socialify.git.ci/YanDao0313/friends/image?font=Bitter&language=1&name=1&owner=1&pulls=1&theme=Auto)](https://blog.krisyan.dev/friends)
+[![4](https://github.com/YanDao0313/Friends/assets/90099234/8515732e-892a-47bf-9f7a-4f74a67e7c5c)](https://blog.krisyan.dev/friends)
 
 ## 我的友链信息
 
