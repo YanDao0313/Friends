@@ -10,7 +10,9 @@
 > 类别：生活/日常  
 > 头像：请访问[此处](https://github.com/YanDao0313/Friends/blob/main/src/me/NEW_PIC.jpg)  
 > 背景：请访问[此处](https://github.com/YanDao0313/Friends/blob/main/src/me/newbg.jpeg)   
-> 订阅：[blog.krisyan.dev/feed.xml](https://blog.krisyan.dev/feed.xml)  
+> 订阅：[blog.krisyan.dev/feed.xml](https://blog.krisyan.dev/feed.xml)
+
+注：旧站点 daoblog.top (Yandao's Blog) 仍将保存，但内容不再更新。
 
 ## 基本要求
 
