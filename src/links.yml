@@ -1,36 +1,48 @@
-"Yandao": # 名称置于双引号之中
-  url: https://www.daoblog.top/ # 网站的 URL，注意空格
-  img: https://i.328888.xyz/2023/03/12/vANQL.jpeg # 网站 Logo 的 URL，注意空格
-  text: "永远在学习的路上" # 网站的 Slogan，置于双引号之中，注意空格
+"Kris Yan": # 名称置于双引号之中
+  url: https://blog.krisyan.dev/ # 网站的 URL，注意空格
+  img: https://cdn.sanity.io/images/4cruvpk8/production/5dfb974d27da6ac37b3c27925d04ecf6a884b1b4-1500x1500.jpg # 网站 Logo 的 URL，注意空格
+  text: "無限進步 @Schale夏萊" # 网站的 Slogan，置于双引号之中，注意空格
+"Kronos Insight":
+  url: https://www.kronosinsight.com
+  img: https://cdn.sanity.io/images/4cruvpk8/production/5c9a33993ba82aad1174da59dd9420ce17c54b1a-500x500.png
+  text: "fanmade | Latest news from Kivotos!"
 "嗯哒嘿":
   url: https://www.wanglewei.com/
-  img: https://img.sdut1.com/blog_yingwu.jpg
+  img: https://cdn.sanity.io/images/4cruvpk8/production/3683b82156ea6c55e04a4d6306b72c6329370400-48x48.jpg
   text: "大黑（王乐伟）的博客 | bili UID2475977"
 "我不是咕咕鸽":
   url: https://blog.laoda.de/
-  img: https://blog.laoda.de/avatar
+  img: https://cdn.sanity.io/images/4cruvpk8/production/1c8a8879dd4d9616205c84e107b33fa09ece4bed-1024x1024.webp
   text: "定期分享一些好玩的东西，不定期记录生活。"
 "张洪Heo":
   url: https://blog.zhheo.com/
-  img: https://img.zhheo.com/i/2022/08/19/62ff32fa28da1.png
+  img: https://cdn.sanity.io/images/4cruvpk8/production/b1ba23687fc1e1a3aa55bc06ea555f2889e9d605-200x200.png
   text: "分享设计与科技生活"
 "宝硕博客":
   url: https://blog.baoshuo.ren/?utm_source=friends
-  img: https://doge.jsdelivr.daoblog.top/npm/bsi@0.0.7/avatar/144x144.webp
+  img: https://cdn.sanity.io/images/4cruvpk8/production/1e34ad6f6eccdc6b3b94c68c1986575d107d194e-144x144.webp
   text: "学习，就是发现自己越来越菜的过程。"
-"小染笔记":
-  url: https://sady0.com
-  img: https://cdn.sady0.com/pic/91531896_p0.jpg
-  text: "遇见即是上上签."
 "L1nSn0w's Blog":
   url: https://blog.linsnow.cn
-  img: https://blog.linsnow.cn/img/avatar.png
+  img: https://cdn.sanity.io/images/4cruvpk8/production/2430a6347afa08e62ed2007d46a8ad50ec7e1cc7-480x480.png
   text: "无限进步.🎈"
+"小染笔记":
+  url: https://sady0.com
+  img: https://cdn.sanity.io/images/4cruvpk8/production/6f12d20735df66ef1075bc409402bd88c89c1178-1080x1080.jpg
+  text: "遇见即是上上签."
+"枫叶":
+  url: https://blog.panghai.top
+  img: https://cdn.sanity.io/images/4cruvpk8/production/2ca3524adfd1faad36f78cf3622f1e31fea232c4-480x480.png
+  text: "保持谨慎，保持乐观"
 "优世界":
   url: https://usj.cc
-  img: https://usj.cc/favicon.ico
+  img: https://cdn.sanity.io/images/4cruvpk8/production/b821c4c4b676c6d3c28b253a29040e50bc41ae70-700x698.jpg
   text: "记录生活点点滴滴"
-"心流":
-  url: https://blog.panghai.top
-  img: https://blog.panghai.top/img/avatar.png
-  text: "保持谨慎，保持乐观"
+"风记星辰"
+  url: https://www.thyuu.com
+  img: https://cdn.sanity.io/images/4cruvpk8/production/10000b9235d3b20eaf0eaf065b4891bfb4c0af4b-150x150.webp
+  text: "热爱你来过的每一份温度 me@thyuu.com"
+"Hao_Tian"
+  url: https://haotian22.top
+  img: https://cdn.sanity.io/images/4cruvpk8/production/6837901bfe4267c19b55e78328fb6e7199db41ce-2000x2000.png
+  text: "生命不息，折腾不止ヾ(≧▽≦*)o"
