@@ -107,10 +107,7 @@
 如果友链出现问题会展示在这里，不再进行友链相关审查，如果已解决问题还请主动告知。
 
 ```yml
-"嗯哒嘿":
-  url: https://www.wanglewei.com/
-  img: https://img.sdut1.com/blog_yingwu.jpg
-  text: "大黑（王乐伟）的博客 | bili UID2475977"
+N O N E
 ```
 
 > 如有恢复/误报，请联系我 [friends@ydlk.cc](mailto:friends@ydlk.cc)  
